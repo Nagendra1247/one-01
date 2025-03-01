@@ -166,7 +166,7 @@
 </head>
 <body>
     <header>
-        <h1>Nagendra-DevOps trainee</h1>
+        <h1>NagendraG-DevOps trainee</h1>
         <p>Building Automation & Scalable Solutions for Modern Applications</p>
         <nav>
             <a href="#about">About</a>
