@@ -178,7 +178,7 @@
 
     <section id="about" class="about">
         <h2>About Me</h2>
-        <p>Hello! I'm Nagendra Gullupalli from andhra pradesh.I have completed my graduation in information technology.Currently i am learning devops with aws in flm</p>
+        <p>Hello! I'm Nagendra G from andhra pradesh.I have completed my graduation in information technology.Currently i am learning devops with aws in flm</p>
     </section>
 
     <section id="skills" class="skills">
