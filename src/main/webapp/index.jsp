@@ -166,7 +166,7 @@
 </head>
 <body>
     <header>
-        <h1>Nagendrag-DevOps with aws trainee</h1>
+        <h1>Nagendra venkatasai -DevOps with aws trainee</h1>
         <p>Building Automation & Scalable Solutions for Modern Applications</p>
         <nav>
             <a href="#about">About</a>
